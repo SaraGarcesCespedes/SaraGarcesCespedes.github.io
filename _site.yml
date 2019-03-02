@@ -1,10 +1,18 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Sara Garcés Céspedes"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-      
+    - text: "Statistics"
+      href: statistics.html
+  right: 
+    - text: "Contact me"
+      href: contact.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate

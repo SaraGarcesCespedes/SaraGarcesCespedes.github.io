@@ -1,5 +1,3 @@
----
-title: "Statistics"
----
+<H1 align="center"> Statistics </H1>
 
 Hello, Website!

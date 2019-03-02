@@ -1,5 +1,7 @@
----
-title: "Contact me"
----
+<H1 align="center"> Contacte me </H1>
 
-Hello, Website!
+Here you have all of my information in case you want to contact me. I hope you enjoy my website. 
+
+- email: saragarcescespedes14@gmail.com
+- [Github](https://github.com/SaraGarcesCespedes)
+- [LinkedIn](https://www.linkedin.com/in/sara-garces-cespedes-a94110148/)

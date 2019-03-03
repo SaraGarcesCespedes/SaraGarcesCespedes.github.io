@@ -1,3 +1,9 @@
 <H1 align="center"> Statistics </H1>
 
-Hello, Website!
+Here you can have access to all my work and to online courses I've done in statistics.
+
+##Courses
+
+- [Learn Python 2](https://www.codecademy.com/learn/learn-python)
+- [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-sciencehttps://www.codecademy.com/learn/learn-python)
+- [Introducción a Data Science: Programación estadística con R,](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r)

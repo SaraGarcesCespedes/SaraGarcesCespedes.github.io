@@ -2,3 +2,5 @@
 <H1 align="center"> Welcome to my website </H1>
 
 ![](1037643159.png){width=20%}
+
+<H5 align="center"> Copyright &copy; 2018, webpage made with Rmarkdown. </H5>

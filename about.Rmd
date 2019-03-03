@@ -5,19 +5,19 @@ My name is Sara, I'm an industrial engineer of [Universidad Nacional de Colombia
 ![](sponsors_NrWzEjCirMaueWp7B_logo_universidad-nacional-de-colombia-_localityId_X7kx7Xd5HxvsR4GxJ.png){width=40%}
 
 
-##Education
+### Education
 
 - [Maestría en Ciencias - Estadística, Universidad Nacional de Colombia (2021).](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/component/progracad/?snies=110263100000500111100&Itemid=164)
 - [Ingeniería Industrial, Universidad Nacional de Colombia (2018).](https://minas.medellin.unal.edu.co/formacion/pregrado/ingenieriaindustrial)
 
-##Teaching
+### Teaching
 
 - 2016-2017
     - Academic monitor Estadística I, Universidad Nacional de Colombia.
 - 2018-today
     - Academic advisory of statistics, Logros.
 
-##Experience
+### Work experience
 
 - November-December 2018
     - Consulting in design and distribution of plants, Muelles y Frenos Simón Bolívar.

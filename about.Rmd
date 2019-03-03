@@ -1,14 +1,19 @@
 <H1 align="center"> About me </H1>
 
-My name is Sara, I'm an industrial engineer of [Universidad Nacional de Colombia](http://medellin.unal.edu.co/). I´ll start my master's studies in statistics soon and my biggest dream is to become a teacher at my university.
+<br>
 
-![](sponsors_NrWzEjCirMaueWp7B_logo_universidad-nacional-de-colombia-_localityId_X7kx7Xd5HxvsR4GxJ.png){width=40%}
+<center>My name is Sara, I'm an industrial engineer of [Universidad Nacional de Colombia](http://medellin.unal.edu.co/). I´ll start my master's studies in statistics soon and my biggest dream is to become a teacher at my university.</center>
 
+<center>![](sponsors_NrWzEjCirMaueWp7B_logo_universidad-nacional-de-colombia-_localityId_X7kx7Xd5HxvsR4GxJ.png){width=40%}</center>
+
+<br>
 
 ### Education
 
 - [Maestría en Ciencias - Estadística, Universidad Nacional de Colombia (2021).](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/component/progracad/?snies=110263100000500111100&Itemid=164)
 - [Ingeniería Industrial, Universidad Nacional de Colombia (2018).](https://minas.medellin.unal.edu.co/formacion/pregrado/ingenieriaindustrial)
+
+<br>
 
 ### Teaching
 
@@ -16,6 +21,8 @@ My name is Sara, I'm an industrial engineer of [Universidad Nacional de Colombia
     - Academic monitor Estadística I, Universidad Nacional de Colombia.
 - 2018-today
     - Academic advisory of statistics, Logros.
+
+<br>
 
 ### Work experience
 

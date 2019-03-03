@@ -14,6 +14,6 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
     highlight: textmate
   

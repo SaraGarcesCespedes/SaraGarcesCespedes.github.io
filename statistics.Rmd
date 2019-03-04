@@ -1,6 +1,6 @@
 <H1 align="center"> Statistics </H1>
 
-<br>
+
 
 <center>Here you can have access to all my work and to online courses I've done in statistics.</center>
 

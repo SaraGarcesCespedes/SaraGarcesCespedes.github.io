@@ -1,6 +1,6 @@
 <H1 align="center"> About me </H1>
 
-<br>
+
 
 <center>My name is Sara, I'm an industrial engineer of [Universidad Nacional de Colombia](http://medellin.unal.edu.co/). I´ll start my master's studies in statistics soon and my biggest dream is to become a teacher at my university.</center>
 

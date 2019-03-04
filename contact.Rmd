@@ -1,9 +1,13 @@
 <H1 align="center"> Contacte me </H1>
 
-<br>
+
 
 <center>Here you have all of my information in case you want to contact me. I hope you enjoy my website.</center>
   
+<br>
+
+<center>![](hola.png){width=30%}</center>
+
 <br>
 
 - email: saragarcescespedes14@gmail.com
